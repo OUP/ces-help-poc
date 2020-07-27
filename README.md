@@ -14,7 +14,7 @@ Evaluate if the source markdowns can be consumed from an S3 bucket directly as o
 ## Installation Instructions 
 1. Clone this repository
 2. Add/Update Markdown files in the ./src/pages directory 
-3. At the command prompt type 'npm run build' then 'npm run deploy' to build and deploy the static site
+3. At the command prompt type `npm run build` then `npm run deploy` to build and deploy the static site
 
 
 
