@@ -1,4 +1,4 @@
-﻿## Registering an account
+﻿# Registering an account
 
 To register, you need to be invited by your organization administrator or teacher. You will be sent an email with instructions to set up your account.
 
