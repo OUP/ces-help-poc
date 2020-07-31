@@ -1,5 +1,7 @@
 ﻿# Registering an account
 
+[Vist the first page](first-page.md)
+
 To register, you need to be invited by your organization administrator or teacher. You will be sent an email with instructions to set up your account.
 
 If you are the administrator for your school or institution, see  [Registering an organization](https://account.oup.com/support/articles/registering-as-an-organization-administrator)  for more information.
