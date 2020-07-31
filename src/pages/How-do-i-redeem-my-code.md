@@ -8,6 +8,6 @@ You may have a card in the back of a book, on a card, or in an email. Either way
 
 ---
 
-If you already have an Oxford ID, you can also enter this code on your Account page. Any products redeemed will appear on this page, and you can click on them to open the product.
+If you already have an **Oxford ID**, you can also enter this code on your [Account](How-do-i-redeem-my-code.md) page. Any products redeemed will appear on this page, and you can click on them to open the product.
 
 ---
