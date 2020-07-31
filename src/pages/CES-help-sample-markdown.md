@@ -1,6 +1,7 @@
 ﻿# Registering an account
 
 [Vist the first page](first-page.md)
+[Vist the first page](First-page.md)
 
 To register, you need to be invited by your organization administrator or teacher. You will be sent an email with instructions to set up your account.
 
